@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8958e56d-285c-4e83-a5bc-c13e1af31e38" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/about.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/about.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sampe_app.iml" afterPath="$PROJECT_DIR$/sampe_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8958e56d-285c-4e83-a5bc-c13e1af31e38" name="Default" comment="" />
     <ignored path="sampe_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -1005,16 +998,16 @@
       <updated>1442523267255</updated>
       <workItem from="1442523270340" duration="1813000" />
       <workItem from="1442999996373" duration="3026000" />
-      <workItem from="1443003990028" duration="1258000" />
+      <workItem from="1443003990028" duration="1901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6097000" />
+    <option name="totallyTimeSpent" value="6740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
